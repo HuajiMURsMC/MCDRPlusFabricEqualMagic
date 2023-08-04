@@ -1,3 +1,3 @@
 # MCDRPlusFabricEqualMagic
 
-MCDR + Fabric = Magic
+MCDR + [Fabric](https://github.com/HuajiMURsMC/FabricPlusMCDREqualMagic) = Magic
