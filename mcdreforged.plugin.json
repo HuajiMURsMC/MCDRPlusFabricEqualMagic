@@ -1,0 +1,9 @@
+{
+    "id": "mpfem",
+    "version": "1.0.0",
+    "name": "MCDRPlusFabricEqualMagic",
+    "description": "MCDR + Fabric = Magic",
+    "author": [
+        "Huaji_MUR233"
+    ]
+}
